@@ -1,0 +1,1 @@
+print('demographics template')
